@@ -6,6 +6,13 @@
 
 The same tiny agent-built game, STARFALL GHOST, filmed on the day it was made and again after a week of daily updates — combos, a magnet, a shield, meteor showers and one very large bomb later. Identical moments are cut together with a still camera so the growth is the whole story: same map, same start, visibly more going on the second time. This repo holds the entry program and VIDEO.json naming the TikTok post.
 
+## The two builds
+
+Day one is the game as first shipped: a ghost, falling stars, bombs and a 60-second timer — one mechanic, cleanly done.
+Day seven is the same game after a week of daily updates: a combo multiplier with its own meter, magnet and shield power-ups, golden meteor showers, and one very large bomb that splits into three mid-fall.
+Both builds were captured with the same still framing, the same seeded randomness and the same demo autopilot, so identical moments line up cut for cut.
+PRODUCTION.md documents the concept, the two builds and the capture method in full.
+
 ## Run it
 
 ```sh
